@@ -1,0 +1,16 @@
+PS C:\Users\sesa192365\OneDrive - Schneider Electric\A_techMe\2ndSem\FullStack\Lab\gyan\filter-product-list> npm start
+
+> filter-product-list@0.1.0 start
+> react-scripts start
+
+'react-scripts' is not recognized as an internal or external command,
+operable program or batch file.
+PS C:\Users\sesa192365\OneDrive - Schneider Electric\A_techMe\2ndSem\FullStack\Lab\gyan\filter-product-list> npx create-react-app gyanapp
+
+##
+AFter downloading the code from Github
+install npm 
+npm start
+
+MongoDb
+C:\Windows\System32\cmd.exe
